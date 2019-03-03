@@ -28,6 +28,7 @@ I'm seeking a position of Junior Frontend Developer in EPAM. I'm fond of Fronten
 * Python  
 * C/C++ (Use Arduino)
 * [HTML CSS Basics](https://www.codecademy.com/users/MaximSemikov/achievements/)  
+* SQL
 
 ### Framework and CMS
 * Bootstrap  
