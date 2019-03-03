@@ -15,7 +15,7 @@
 <i class="fab fa-telegram-plane"></i> [@MaximSemikov](https://t.me/MaximSemikov "SEND MESSAGE")  
 
 ## Summary
-
+I'm seeking a position of Junior Frontend Developer in EPAM. I'm fond of Frontend. I can use HTML, CSS, Git. And I have the experience working with Pascal, Delphi, C, Python. I'm a purposeful person. If I don't known something, I prefer studing. I try to education myself as much as possible.
 
 ## Skils  
 
