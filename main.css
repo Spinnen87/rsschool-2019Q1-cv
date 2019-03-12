@@ -75,6 +75,7 @@ header {
 
 h2 {
     margin: 9px;
+    text-transform: uppercase;
     /* color: #1a9cb0; */
 }
 
