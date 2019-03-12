@@ -146,20 +146,6 @@ h3{
     line-height: 25px;
 }
 
-/* 
-h2:before{
-    content: "";
-    display: block;
-    position: relative;
-    left: 290px;
-    width: 10px;
-    height: 10px;
-    border-radius: 100%;
-    border: 1px solid #a1a5a6;
-    background:transparent;
-    overflow: hidden; 
-} */
-
 .code-exampel {
     order: 1;
     flex-grow: 1;
